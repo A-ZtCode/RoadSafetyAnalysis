@@ -27,4 +27,3 @@ Some of these files are simply too large to open even within excel. Therefore, i
 
 ## The Task.
 Advise government agencies about how to improve road safety and create a model that would predict such accidents and the injuries that they incur.
-![image](https://github.com/AltheaZeta/RoadSafetyAnalysis/assets/86517586/14c551b7-7b83-4505-b85a-87e3b98483a0)
