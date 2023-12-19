@@ -1,4 +1,4 @@
-# RoadSafetyAnalysis
+# Road Safety Analysis
 
 ## Context.
 This project is based on real world data; specifically, road traffic accidents in 2019.
