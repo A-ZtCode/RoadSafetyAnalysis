@@ -1,7 +1,7 @@
 # Road Safety Analysis
 
 ## Context.
-This project is based on real world data; specifically, road traffic accidents in 2019.
+This project showcases the analysis of UK road traffic accidents from 2015 to 2019.
 
 ## Project Background Information.
 All road traffic accidents involving casualties are logged and reported in the United Kingdom, along with (probably) a majority of other non-fatal road traffic accidents. Every year, the government releases a large batch of data associated with these reports. In this project I will be using the data
